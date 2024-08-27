@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on [flyway](https://github.com/seoyoungk0909/flyway)
 
-<!--- - 👨‍💻 All of my projects are available at [mywebsite.com](mywebsite.com) -->
-
 - 📫 How to reach me **seoyoungk0909@gmail.com**
 
-<!--- - 📄 Know about my experiences [mycv.com](mycv.com) -->
+- 👨‍💻 Know about my experiences and projects [seoyoungk0909.github.io](https://seoyoungk0909.github.io/portfolio/)
 
 <h3 align="left">Technologies I work With</h3>
 <p align="left">
