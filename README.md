@@ -3,8 +3,6 @@
 
 - 🌱 I’m a year 3 student in Computer Science with Extended Major in Artificial Intelligence
 
-- 🔭 I’m currently working on [flyway](https://github.com/seoyoungk0909/flyway)
-
 - 📫 How to reach me **seoyoungk0909@gmail.com**
 
 - 👨‍💻 Know about my experiences and projects [seoyoungk0909.github.io](https://seoyoungk0909.github.io/portfolio/)
