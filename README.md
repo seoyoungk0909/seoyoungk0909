@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seoyoung Kim</h1>
 <h3 align="center">I'm a passionate software engineer from South Korea</h3>
 
-- 🌱 I’m a year 3 student in Computer Science with Extended Major in Artificial Intelligence
+- 🌱 I’m a year 4 student in Computer Science with Extended Major in Artificial Intelligence
 
 - 📫 How to reach me **seoyoungk0909@gmail.com**
 
